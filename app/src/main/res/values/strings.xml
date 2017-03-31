@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="contactenos">Contactenos</string>
+    <string name="nombre">Nombre:</string>
+    <string name="correo">Correo:</string>
+    <string name="edad">Edad:</string>
+    <string name="bienvenido">Bienvenido:</string>
+</resources>
